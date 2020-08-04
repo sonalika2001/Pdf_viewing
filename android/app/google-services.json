@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095638221778",
+    "firebase_url": "https://slcmapp.firebaseio.com",
+    "project_id": "slcmapp",
+    "storage_bucket": "slcmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095638221778:android:613bef25a44a3ebb873e0b",
+        "android_client_info": {
+          "package_name": "com.example.notices_slcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095638221778-475d0c04rnu1emdc415rtn9l015tnr42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhlfudmKDGlQ97rKexQM4Pu0Nq50HHms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095638221778-475d0c04rnu1emdc415rtn9l015tnr42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
