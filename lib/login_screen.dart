@@ -50,7 +50,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     height: 40,
                     width: 30,
                     child: Divider(
-                      thickness: 2.5,
+                      thickness: 2,
                       color: Color(0x80410064),
                     ),
                   ),
